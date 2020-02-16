@@ -5,31 +5,25 @@ channels:
 dependencies:
   - python =3.7
   - bokeh
+  - cenpy
   - pip
-  - geopandas
   - descartes
   - folium
+  - geopandas
+  - geoviews
+  - hvplot
+  - holoviews
   - ipython
   - ipywidgets
   - jupyterlab
-  - pysal
   - nbconvert
   - networkx
   - palettable
+  - pysal
+  - rasterio
   - scikit-learn
   - seaborn
   - statsmodels
-  - segregation
-  - hvplot
-  - holoviews
-  - geoviews
-  - libpysal
-  - mapclassify
-  - esda
   - watermark
-  - rasterio
-  - descartes
-  - folium
-  - cenpy
   - pip:
     - contextily
