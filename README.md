@@ -17,7 +17,7 @@ Proposed Schedule:
 
 * Fundamentals of Spatial Analysis
   + PySAL Overview
-  + Spatial data processing
+  + [Spatial data processing](content/geoprocessing.ipynb) 
   + Choropleth mapping and geovisualization
   + Spatial weights
   + Global & Local spatial autocorrelation
